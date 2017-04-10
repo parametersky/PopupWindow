@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ford-pro2/KylePriWorkSpace/PopupWindow1/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/ford-pro2/KylePriWorkSpace/PopupWindow1/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/ford-pro2/KylePriWorkSpace/PopupWindow1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ford-pro2/KylePriWorkSpace/PopupWindow1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ford-pro2/KylePriWorkSpace/PopupWindow1/app/build/intermediates/res/merged/debug/layout/icon.xml",
+        "source": "/Users/ford-pro2/KylePriWorkSpace/PopupWindow1/app/src/main/res/layout/icon.xml"
+    }
+]
